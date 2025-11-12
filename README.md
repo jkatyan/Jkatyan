@@ -1,9 +1,6 @@
 ### Hey there, I'm Jay!
-I'm a software engineer interested in robotics, machine learning, and software engineering!
 
-- Email: jaykatyan@gmail.com
-- LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
-- Discord: [datastructure | Discord](https://discordapp.com/users/297524766770987018)
+I'm a software engineer and researcher interested in full-stack AI integration, embodied intelligence, and continual learning. Feel free to contact me at <a href="mailto:jkatyan@upenn.edu">jkatyan@upenn.edu</a> or <a href="https://discordapp.com/users/297524766770987018">datastructure</a> on Discord.
 
 ---
 
