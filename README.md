@@ -1,6 +1,8 @@
 ### Hey there, I'm Jay!
 
-I'm a software engineer and researcher interested in full-stack AI integration, embodied intelligence, and continual learning. Feel free to contact me at <a href="mailto:jkatyan@upenn.edu">jkatyan@upenn.edu</a> or <a href="https://discordapp.com/users/297524766770987018">datastructure</a> on Discord.
+I'm a software engineer and researcher interested in full-stack AI integration, foundation models, embodied intelligence, and continual learning. Feel free to contact me at <a href="mailto:jkatyan@upenn.edu">jkatyan@upenn.edu</a> or <a href="https://discordapp.com/users/297524766770987018">datastructure</a> on Discord.
+
+🐟 I'm also a big <a href="https://fishshell.com/">fish</a> enthusiast, try it out :)
 
 ---
 
