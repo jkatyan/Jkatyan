@@ -15,7 +15,7 @@ I'm a huge hackathon enthusiast (and former hackathon director!), and several of
   - A fully-integrated, agentic, iOS/VR assitant for anxiety attack detection and intervention. Featuring real-time voice agents, language models, and procedurally generated voice-to-3D environments.
 - [SafeSound - HackViolet @ Virginia Tech](https://devpost.com/software/safesound-4atsrn)
   - Winner of HackViolet's "Best Overall" hack!
-  - A real-time “transparency mode” for headphones to filter trigger words for PTSD patients, including a multithreaded architecture for recording, playback, and ASR.
+  - A real-time "transparency mode" for headphones to filter trigger words for PTSD patients, including a multithreaded architecture for recording, playback, and ASR.
  
 ---
 
