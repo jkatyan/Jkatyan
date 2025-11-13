@@ -10,10 +10,10 @@ I'm a software engineer and researcher interested in startups, full-stack AI int
 
 I'm a huge hackathon enthusiast (and former hackathon director!), and several of my projects are available on <a href="https://devpost.com/jkatyan">Devpost</a>. Most recently, I've built the following projects over the weekend:
 
-- [Haven - Cal Hacks @ UC Berkeley](https://github.com/Jkatyan/CS-2104](https://devpost.com/software/haven-cs0lzq))
+- [Haven - Cal Hacks @ UC Berkeley](https://devpost.com/software/haven-cs0lzq)
   - Winner of LiveKit's "Most Technically Complex/Challenging" hack!
   - A fully-integrated, agentic, iOS/VR assitant for anxiety attack detection and intervention. Featuring real-time voice agents, language models, and procedurally generated voice-to-3D environments.
-- [SafeSound - HackViolet @ Virginia Tech](https://github.com/Jkatyan/CS-2104](https://devpost.com/software/safesound-4atsrn))
+- [SafeSound - HackViolet @ Virginia Tech](https://devpost.com/software/safesound-4atsrn)
   - Winner of HackViolet's "Best Overall" hack!
   - A real-time “transparency mode” for headphones to filter trigger words for PTSD patients, including a multithreaded architecture for recording, playback, and ASR.
  
