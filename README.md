@@ -1,6 +1,6 @@
 ### Hey there, I'm Jay!
 
-I'm a software engineer and researcher passionate about startups, people, and AI.
+I'm a software engineer and researcher passionate about people, startups, and artificial intelligence.
 
 ---
 
