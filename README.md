@@ -1,12 +1,25 @@
 ### Hey there, I'm Jay!
 
-I'm a software engineer and researcher interested in full-stack AI integration, foundation models, embodied intelligence, and continual learning. Feel free to contact me at <a href="mailto:jkatyan@upenn.edu">jkatyan@upenn.edu</a> or <a href="https://discordapp.com/users/297524766770987018">datastructure</a> on Discord.
+I'm a software engineer and researcher interested in startups, full-stack AI integration, foundation models, embodied intelligence, and continual learning. Feel free to contact me at <a href="mailto:jkatyan@upenn.edu">jkatyan@upenn.edu</a> or <a href="https://discordapp.com/users/297524766770987018">datastructure</a> on Discord.
 
-🐟 I'm also a big <a href="https://fishshell.com/">fish</a> enthusiast, try it out :)
+🐟 I'm also a big fan of <a href="https://fishshell.com/">fish</a>, try it out :)
 
 ---
 
-**CS Coursework**  
+**Projects**
+
+I'm a huge hackathon enthusiast (and former hackathon director!), and several of my projects are available on <a href="https://devpost.com/jkatyan">Devpost</a>. Most recently, I've built the following projects over the weekend:
+
+- [Haven - Cal Hacks @ UC Berkeley](https://github.com/Jkatyan/CS-2104](https://devpost.com/software/haven-cs0lzq))
+  - Winner of LiveKit's "Most Technically Complex/Challenging" hack!
+  - A fully-integrated, agentic, iOS/VR assitant for anxiety attack detection and intervention. Featuring real-time voice agents, language models, and procedurally generated voice-to-3D environments.
+- [SafeSound - HackViolet @ Virginia Tech](https://github.com/Jkatyan/CS-2104](https://devpost.com/software/safesound-4atsrn))
+  - Winner of HackViolet's "Best Overall" hack!
+  - A real-time “transparency mode” for headphones to filter trigger words for PTSD patients, including a multithreaded architecture for recording, playback, and ASR.
+ 
+---
+
+**Coursework**  
 *Private repositories, permission required!*
 
 - [CS 2104 - Problem Solving in Computer Science](https://github.com/Jkatyan/CS-2104)
